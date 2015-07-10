@@ -11,7 +11,7 @@ public class SGActivity extends Activity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState){
 		super.onCreate(savedInstanceState);
-		Log.v(TAG, "onCreate() chmado.");
+		Log.v(TAG, "onCreate() chamado.");
 	}
 	
 	@Override
